@@ -3,7 +3,7 @@
 ## Quick Setup 🏎
 
 ```
-helm repo add ydata <url>
+helm repo add ydata https://ydataai.github.io/charts/
 ```
 
 And that's it folks, happy installing 🎉
